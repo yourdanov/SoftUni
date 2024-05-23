@@ -1,4 +1,7 @@
 # SoftUni
--Yourdanov@SoftUni
--a.yourdanov@live.com
--Software Engineering and DevOps - May 2024
+
+Yourdanov@SoftUni
+
+a.yourdanov@live.com
+
+Software Engineering and DevOps - May 2024
