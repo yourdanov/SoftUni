@@ -20,3 +20,4 @@ a.yourdanov@live.com
 - 12_While Loop - Exercise
 - 13_Nested Loops - Lab
 - 14_Nested Loops - Exercise
+- 15_Exam June 2024
